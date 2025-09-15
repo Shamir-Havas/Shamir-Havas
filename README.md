@@ -32,7 +32,7 @@
 - Preprocessed imbalanced dataset  
 - Trained Decision Tree (ROC-AUC ≈ 0.93) and SVM (ROC-AUC ≈ 0.96)  
 
-🔗 [View Repository](https://github.com/YOURUSERNAME/CreditCard-Fraud-Detection)  
+🔗 [View Repository](https://github.com/Shamir-Havas/Credit_Card_Fraud_Detection_with_DecisionTree_and_SVM)  
 
 ---
 
