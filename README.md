@@ -1,73 +1,69 @@
-# Hi there 👋, I'm Shamir Havas
+# Hi there 👋, I'm Shamir Havas  
 
 🎓 M.Sc. Data Science & Big Data Analytics (2023–2025)  
-💻 Passionate about Data Science, Machine Learning, and Analytics  
-📊 Skilled in Python, SQL, R, TensorFlow, Scikit-learn, Tableau, Power BI, and Plotly Dash  
-🚀 Interested in turning data into actionable insights for business and healthcare solutions  
+💻 Passionate about Data Science, Machine Learning & Analytics  
+📊 Skilled in Python, SQL, R, TensorFlow, Tableau, Power BI, and Plotly Dash  
+🚀 Turning raw data into **actionable insights** for business & healthcare  
+
+*(تحليل البيانات لصنع قرارات أفضل – Data Science for Better Decisions)*  
 
 ---
 
 ## 🔧 Technical Skills
 - **Programming & Querying**: Python, R, SQL, Basic Java  
 - **ML & Analytics**: Time Series Forecasting (GRU, ARIMA), Predictive Modeling, Feature Engineering, EDA  
-- **Big Data & ETL**: Spark, Hadoop (basic), Data Wrangling, Distributed Data Processing  
-- **Visualization & Dashboards**: Tableau, Power BI, Matplotlib, Seaborn, Plotly, Dash  
-- **Databases & Web**: MySQL, Django, REST APIs  
+- **Big Data & ETL**: Spark, Hadoop (basic), Data Wrangling, Distributed Processing  
+- **Visualization & Dashboards**: Tableau, Power BI, Plotly Dash, Matplotlib, Seaborn  
+- **Databases & Web**: MySQL, PostgreSQL, Django, REST APIs  
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects  
 
-### 🏥 HASTURE – Intelligent Hospital Management System
-- Django + MySQL hospital management platform with role-based dashboards  
-- GRU-based inventory forecasting (12-month demand, test MSE ≈ 9.74)  
-- HUOMIL pattern mining for high-utility medicine prioritization  
-- Real-time dashboards for ward availability and patient trends  
-
-🔗 [View Repository](https://github.com/YOURUSERNAME/HASTURE-Hospital-Management)  
+### 🏥 [HASTURE – Hospital Inventory Forecasting](https://github.com/Shamir-Havas/HASTURE)  
+- Built **GRU-based forecasting model** (MSE ≈ 9.7), reducing simulated stockouts by ~20%  
+- Role-based dashboards (Django + MySQL) for **real-time hospital resource management**  
+- Applied **HUOMIL pattern mining** for medicine prioritization  
 
 ---
 
-### 💳 Credit Card Fraud Detection
-- Preprocessed imbalanced dataset  
-- Trained Decision Tree (ROC-AUC ≈ 0.93) and SVM (ROC-AUC ≈ 0.96)  
-
-🔗 [View Repository](https://github.com/Shamir-Havas/Credit_Card_Fraud_Detection_with_DecisionTree_and_SVM)  
-
----
-
-### 🚗 Automobile Sales Dashboard
-- Interactive sales trend dashboard using Plotly Dash  
-- Dynamic filters, multi-chart visualization  
-
-🔗 [View Repository](https://github.com/YOURUSERNAME/Automobile-Sales-Dashboard)  
+### 💳 [Credit Card Fraud Detection](https://github.com/Shamir-Havas/Credit_Card_Fraud_Detection_with_DecisionTree_and_SVM)  
+- Preprocessed highly **imbalanced financial dataset**  
+- Trained Decision Tree (ROC-AUC ≈ 0.93) & SVM (ROC-AUC ≈ 0.96)  
+- Improved **fraud recall by 18%**  
 
 ---
 
-### 🧪 Other Projects
-- Housing Price Prediction  
-- Stock Trend Analysis (Tesla vs. GME volatility)  
-- Predictive Analytics in Healthcare (85% accuracy)  
-- Flight Delay Dashboard (U.S. airlines 2010–2020)  
-- Drug Response Prediction  
+### 🚗 [Automobile Sales Dashboard](https://github.com/Shamir-Havas/Automobile-Sales-Analysis-Dashboard)  
+- Interactive sales dashboard with Plotly Dash  
+- **Automated reporting**, replacing static Excel sheets  
+- Dynamic filters & multi-view charts for **business insights**  
 
 ---
 
-## 📜 Certifications
-- IBM Data Science Professional Certificate – Coursera  
-- Microsoft Power BI Data Analyst Associate *(In Progress)*  
+### 🧪 Other Projects  
+- 🏡 [House Price Prediction](https://github.com/Shamir-Havas/House_Sales_Data_in_King_County) – Regression models for investment decisions  
+- 📈 [Tesla vs. GME Analysis](https://github.com/Shamir-Havas/Tesla_VS_Gme.ipynb) – Market volatility insights  
+- ✈️ [Flight Delay Dashboard](https://github.com/Shamir-Havas/Flight_Delay-Dash-Plotly) – Real-time airline delay analysis  
+- 💊 [Drug Response Prediction](https://github.com/Shamir-Havas/Drug-Prediction-Decision-Tree) – Classification of patients into drug groups  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
+## 📜 Certifications  
+- 🎓 IBM Data Science Professional Certificate – Coursera (2025)  
+- 📊 Microsoft Power BI Data Analyst Associate *(in progress)*  
 
 ---
 
-## 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/YOURLINK)  
-- [Portfolio](https://yourportfolio.com)  
-- 📧 [Email Me](mailto:YOUREMAIL)  
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamir-Havas&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamir-Havas&layout=compact&theme=tokyonight)  
 
-⭐️ Feel free to check out my repositories and connect for collaborations!
+---
+
+## 🌐 Connect with Me  
+- 🔗 [LinkedIn](http://www.linkedin.com/in/shamir-havas-78ab31334)  
+- 💻 [GitHub](https://github.com/Shamir-Havas)  
+- 📧 [Email Me](mailto:shamirhavas.data@gmail.com)  
+
+⭐️ *Feel free to explore my repositories and reach out for collaborations or opportunities!*  
