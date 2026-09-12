@@ -17,47 +17,38 @@
 - **Databases & Web**: MySQL, PostgreSQL, Django, REST APIs  
 
 ---
+ 
+## ⭐ Featured Projects
 
-## 📂 Featured Projects  
+### 🏥 [HASTURE — Hospital Inventory & Resource Intelligence](https://github.com/Shamir-Havas/HASTURE)
+GRU forecasting • Apriori • Inventory Analytics • Patient Analytics • Dashboards
 
-### 🏥 [HASTURE – Hospital Inventory Forecasting](https://github.com/Shamir-Havas/HASTURE)  
-- Built **GRU-based forecasting model** (MSE ≈ 9.7), reducing simulated stockouts by ~20%  
-- Role-based dashboards (Django + MySQL) for **real-time hospital resource management**  
-- Applied **HUOMIL pattern mining** for medicine prioritization  
+### 🛒 [Online Shoppers Purchasing Intention](https://github.com/Shamir-Havas/purchasing-intention-of-online-shoppers)
+Random Forest • SMOTE • SHAP • Customer Analytics • ROC-AUC 0.90
 
----
+## 📊 Other Projects
 
-### 💳 [Credit Card Fraud Detection](https://github.com/Shamir-Havas/Credit_Card_Fraud_Detection_with_DecisionTree_and_SVM)  
-- Preprocessed highly **imbalanced financial dataset**  
-- Trained Decision Tree (ROC-AUC ≈ 0.93) & SVM (ROC-AUC ≈ 0.96)  
-- Improved **fraud recall by 18%**  
+### 💳 [Credit Card Fraud Detection](YOUR-LINK)
+Decision Tree • SVM • Imbalanced Classification • ROC-AUC
 
----
+### ✈️ [Flight Delay Analysis & Dashboard](https://github.com/Shamir-Havas/Flight_Delay-Dash-Plotly)
+EDA • Airline Analytics • Plotly • Dash
 
-### 🚗 [Automobile Sales Dashboard](https://github.com/Shamir-Havas/Automobile-Sales-Analysis-Dashboard)  
-- Interactive sales dashboard with Plotly Dash  
-- **Automated reporting**, replacing static Excel sheets  
-- Dynamic filters & multi-view charts for **business insights**  
+### 🚗 [Automobile Sales Analysis & Dashboard](YOUR-LINK)
+Sales Analytics • Recession Analysis • Plotly • Dash
 
----
+### 🏠 [King County House Price Analytics](https://github.com/Shamir-Havas/House_Sales_Data_in_King_County)
+Regression • Feature Engineering • Cross-Validation
+
+### 💊 [Drug Prediction — Decision Tree](https://github.com/Shamir-Havas/Drug-Prediction-Decision-Tree)
+Decision Tree • Classification • Model Interpretation
 
 ### 🧪 Other Projects  
-- 🏡 [House Price Prediction](https://github.com/Shamir-Havas/House_Sales_Data_in_King_County) – Regression models for investment decisions  
 - 📈 [Tesla vs. GME Analysis](https://github.com/Shamir-Havas/Tesla_VS_Gme.ipynb) – Market volatility insights  
-- ✈️ [Flight Delay Dashboard](https://github.com/Shamir-Havas/Flight_Delay-Dash-Plotly) – Real-time airline delay analysis  
-- 💊 [Drug Response Prediction](https://github.com/Shamir-Havas/Drug-Prediction-Decision-Tree) – Classification of patients into drug groups  
-
----
 
 ## 📜 Certifications  
 - 🎓 IBM Data Science Professional Certificate – Coursera (2025)  
 - 📊 Microsoft Power BI Data Analyst Associate *(in progress)*  
-
----
-
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamir-Havas&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamir-Havas&layout=compact&theme=tokyonight)  
 
 ---
 
