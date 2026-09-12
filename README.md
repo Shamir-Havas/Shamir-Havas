@@ -23,25 +23,25 @@
 ### 🏥 [HASTURE — Hospital Inventory & Resource Intelligence](https://github.com/Shamir-Havas/HASTURE)
 GRU forecasting • Apriori • Inventory Analytics • Patient Analytics • Dashboards
 
-### 🛒 [Online Shoppers Purchasing Intention](https://github.com/Shamir-Havas/purchasing-intention-of-online-shoppers)
-Random Forest • SMOTE • SHAP • Customer Analytics • ROC-AUC 0.90
+### 🛒 [Online Shoppers Purchasing Intention](https://github.com/Shamir-Havas/purchasing-intention-of-online-shoppers/blob/main/README.md)
+• Random Forest • SMOTE • SHAP • Customer Analytics • ROC-AUC 0.90
 
 ## 📊 Other Projects
 
 ### 💳 [Credit Card Fraud Detection](YOUR-LINK)
-Decision Tree • SVM • Imbalanced Classification • ROC-AUC
+• Decision Tree • SVM • Imbalanced Classification • ROC-AUC
 
 ### ✈️ [Flight Delay Analysis & Dashboard](https://github.com/Shamir-Havas/Flight_Delay-Dash-Plotly)
-EDA • Airline Analytics • Plotly • Dash
+• EDA • Airline Analytics • Plotly • Dash
 
 ### 🚗 [Automobile Sales Analysis & Dashboard](YOUR-LINK)
-Sales Analytics • Recession Analysis • Plotly • Dash
+• Sales Analytics • Recession Analysis • Plotly • Dash
 
 ### 🏠 [King County House Price Analytics](https://github.com/Shamir-Havas/House_Sales_Data_in_King_County)
-Regression • Feature Engineering • Cross-Validation
+• Regression • Feature Engineering • Cross-Validation
 
 ### 💊 [Drug Prediction — Decision Tree](https://github.com/Shamir-Havas/Drug-Prediction-Decision-Tree)
-Decision Tree • Classification • Model Interpretation
+• Decision Tree • Classification • Model Interpretation
 
 ### 🧪 Other Projects  
 - 📈 [Tesla vs. GME Analysis](https://github.com/Shamir-Havas/Tesla_VS_Gme.ipynb) – Market volatility insights  
