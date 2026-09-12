@@ -21,14 +21,14 @@
 ## ⭐ Featured Projects
 
 ### 🏥 [HASTURE — Hospital Inventory & Resource Intelligence](https://github.com/Shamir-Havas/HASTURE)
-GRU forecasting • Apriori • Inventory Analytics • Patient Analytics • Dashboards
+• GRU forecasting • Apriori • Inventory Analytics • Patient Analytics • Dashboards
 
 ### 🛒 [Online Shoppers Purchasing Intention](https://github.com/Shamir-Havas/purchasing-intention-of-online-shoppers/blob/main/README.md)
 • Random Forest • SMOTE • SHAP • Customer Analytics • ROC-AUC 0.90
 
 ## 📊 Other Projects
 
-### 💳 [Credit Card Fraud Detection](YOUR-LINK)
+### 💳 [Credit Card Fraud Detection](https://github.com/Shamir-Havas/Credit_Card_Fraud_Detection_with_DecisionTree_and_SVM/blob/main/README.md)
 • Decision Tree • SVM • Imbalanced Classification • ROC-AUC
 
 ### ✈️ [Flight Delay Analysis & Dashboard](https://github.com/Shamir-Havas/Flight_Delay-Dash-Plotly)
