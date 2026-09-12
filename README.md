@@ -31,20 +31,20 @@
 ### 💳 [Credit Card Fraud Detection](https://github.com/Shamir-Havas/Credit_Card_Fraud_Detection_with_DecisionTree_and_SVM/blob/main/README.md)
 • Decision Tree • SVM • Imbalanced Classification • ROC-AUC
 
-### ✈️ [Flight Delay Analysis & Dashboard](https://github.com/Shamir-Havas/Flight_Delay-Dash-Plotly)
+### ✈️ [Flight Delay Analysis & Dashboard](https://github.com/Shamir-Havas/Flight_Delay-Dash-Plotly/blob/main/README.md)
 • EDA • Airline Analytics • Plotly • Dash
 
-### 🚗 [Automobile Sales Analysis & Dashboard](YOUR-LINK)
+### 🚗 [Automobile Sales Analysis & Dashboard](https://github.com/Shamir-Havas/Automobile-Sales-Analysis-Dashboard/blob/main/README.md)
 • Sales Analytics • Recession Analysis • Plotly • Dash
 
-### 🏠 [King County House Price Analytics](https://github.com/Shamir-Havas/House_Sales_Data_in_King_County)
+### 🏠 [King County House Price Analytics](https://github.com/Shamir-Havas/House_Sales_Data_in_King_County/blob/main/README.md)
 • Regression • Feature Engineering • Cross-Validation
 
-### 💊 [Drug Prediction — Decision Tree](https://github.com/Shamir-Havas/Drug-Prediction-Decision-Tree)
+### 💊 [Drug Prediction — Decision Tree](https://github.com/Shamir-Havas/Drug-Prediction-Decision-Tree/blob/main/README.md)
 • Decision Tree • Classification • Model Interpretation
 
 ### 🧪 Other Projects  
-- 📈 [Tesla vs. GME Analysis](https://github.com/Shamir-Havas/Tesla_VS_Gme.ipynb) – Market volatility insights  
+- 📈 [Tesla vs. GME Analysis](https://github.com/Shamir-Havas/Tesla_VS_Gme.ipynb/blob/main/README.md)) – Market volatility insights  
 
 ## 📜 Certifications  
 - 🎓 IBM Data Science Professional Certificate – Coursera (2025)  
