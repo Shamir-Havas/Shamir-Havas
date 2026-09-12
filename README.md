@@ -10,9 +10,9 @@
 ---
 
 ## 🔧 Technical Skills
-- **Programming & Querying**: Python, R, SQL, Basic Java  
+- **Programming & Querying**: Python, R, SQL,  
 - **ML & Analytics**: Time Series Forecasting (GRU, ARIMA), Predictive Modeling, Feature Engineering, EDA  
-- **Big Data & ETL**: Spark, Hadoop (basic), Data Wrangling, Distributed Processing  
+- **ETL**: Data Wrangling, Distributed Processing  
 - **Visualization & Dashboards**: Tableau, Power BI, Plotly Dash, Matplotlib, Seaborn  
 - **Databases & Web**: MySQL, PostgreSQL, Django, REST APIs  
 
